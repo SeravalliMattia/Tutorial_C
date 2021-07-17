@@ -40,4 +40,6 @@ int main(){
     }
 
     printf("Numeri: %i, %i, %i, mediana: %i.\n", a, b, c, mediana);
+
+    return 0;
 }
